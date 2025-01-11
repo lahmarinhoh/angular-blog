@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 import { CentralModule } from '../../components/module/central.module';
 
 @Component({
