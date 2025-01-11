@@ -1,8 +1,8 @@
 export const dataFake = [
   {
     "id": "1",
-    "title": "title",
-    "description": "description",
+    "title": "Article Title Here",
+    "description": "Description Here",
     "photoCover": "https://ionic.io/blog/wp-content/uploads/2024/02/angular-feature-image-1.png"
   },
 
